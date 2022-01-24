@@ -1,1 +1,3 @@
-# Add your token in run.js
+# Add your token in .env,
+
+## TOKEN = ""
